@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 Dec, 2014, 1:27:10 PM
+    Author     : sheik
+*/
+
+.breadcrumb{
+	height: 40px;
+}
+
+.common_search{
+	height: 35px;
+	padding-bottom:5%;
+}
+.footer .footer-inner .footer-content{
+	padding: 8px;
+}
+
+.center_div{
+	float:left;width:74%;padding:.5%;
+}
+.customer_search_btn{color:#fff; background:#B74635;padding:.9%;border-radius:3px;border:0;}
+
+.custom_div{float:right;width:52%;}
+.summary_page{
+	background-color: brown ! important;
+	color: white ! important;
+}
+.summary_search{
+	margin-top: 4px ! important;
+}
+.layout_search_parent_grid_wrapper{
+	margin-left: 3.5em;
+}
+.preactive_grid_wrapper{
+	margin-left: 0.7em !important;
+}  
+.input-group-addon{
+	color:orange;
+}
+label,legend{
+	color:navy;
+}
+table td{
+	/*height: 36px;*/
+	font-size: 12px;
+}
+.ui-jqgrid .ui-jqgrid-htable th div{
+	overflow:visible !important;
+}
+.top_frame{margin-top:2%;}
+.search_filter_div{
+	display:none !important;
+}
+
+.ui-jqgrid tr.ui-row-ltr td{border:1px solid #EEEEEE !important;}
+.ui-jqgrid tr.jqgrow td{height:30px !important;}  
+select.form-control { 
+	font-size:12px !important;
+}
+input[type="text"], input[type="password"] {
+	font-size:12px !important;
+} 
+textarea {
+	font-size:12px !important;
+}
